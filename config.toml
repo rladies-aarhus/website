@@ -33,7 +33,8 @@ enableEmoji = true
   description = "Events and resources for learning R in an inclusive and supportive environment."
   favicon = "/img/favicon.ico"
   logo = "/img/rladies-logo-text.png"
-  mainSections = ["blog", "project"]
+  mainSections = ""
+  # mainSections = ["blog", "project"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]

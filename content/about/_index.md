@@ -2,9 +2,10 @@
 cascade:
   headless: true
 description: |
-  A website template for Hugo developed by RStudio & Formspree and available for free.
+  The website for R-Ladies Aarhus in Denmark, showing events, workshops, talks,
+  and material from the talks or workshops.
 show_header: true
-sidebar_left: false
+sidebar_left: true
 title: About
 ---
 
